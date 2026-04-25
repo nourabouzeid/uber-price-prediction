@@ -3,3 +3,4 @@
 3) Figure out a way to make bagging/boosting work
 4) Hyperparameter search
 5) Try removing correlated features and handling outliers (somehow)
+7) R2 score
